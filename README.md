@@ -1,5 +1,7 @@
 # Glitch Items Repository #
 
+[![Join the chat at https://gitter.im/Crwth/glitch-items](https://badges.gitter.im/Crwth/glitch-items.svg)](https://gitter.im/Crwth/glitch-items?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## License ##
 
 All files are provided by Tiny Speck under the 
